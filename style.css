@@ -1,0 +1,14 @@
+body{
+    background-color:#F0CEE6 ;
+    font-family: sans-serif;
+    font-family: 'Mandali', sans-serif;
+    letter-spacing:2px ;
+}
+h1{ color: dodgerblue;
+font-size: 50px;
+text-align: center;}
+h2{color: dodgerblue;
+font-size: 30;
+text-align: center; 
+}
+p{ font-style: italic;}
